@@ -19,9 +19,10 @@ Selamat datang di profil GitHub saya! Saya seorang developer yang suka bereksplo
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Overview
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waappp&theme=tokyonight)
+![Repositories](https://img.shields.io/badge/Public_Repos-26-7aa2f7?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=waappp&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
