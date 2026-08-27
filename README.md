@@ -6,23 +6,22 @@ Selamat datang di profil GitHub saya! Saya seorang developer yang suka bereksplo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript, [Vue.js](https://vuejs.org/)
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js
 - **Backend & Database:** PHP, MySQL / ERD Design
 
 ---
 
 ### 📂 Highlight Repositori
 
-- 🚀 [portofoliowapaa](https://github.com/waappp/portofoliowapaa) — Project portofolio berbasis Vue.js.
-- 📚 [Perpustakaan1](https://github.com/waappp/Perpustakaan1) — Aplikasi manajemen perpustakaan sederhana menggunakan PHP.
-- 🗄️ [database](https://github.com/waappp/database) & [Latihan-ERD](https://github.com/waappp/Latihan-ERD) — Perancangan dan pengelolaan struktur basis data.
+- 🚀 **portofoliowapaa** — Project portofolio berbasis Vue.js.
+- 📚 **Perpustakaan1** — Aplikasi manajemen perpustakaan sederhana menggunakan PHP.
+- 🗄️ **database & Latihan-ERD** — Perancangan dan pengelolaan struktur basis data.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=waappp&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waappp&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waappp&theme=tokyonight)
 
 ---
 
