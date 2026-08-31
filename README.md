@@ -6,15 +6,16 @@ Selamat datang di profil GitHub saya! Saya seorang developer yang suka bereksplo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript, Vue.js
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, Nuxt.Js
 - **Backend & Database:** PHP, MySQL / ERD Design
 
 ---
 
 ### 📂 Highlight Repositori
 
-- 🚀 **portofoliowapaa** — Project portofolio berbasis Vue.js.
-- 📚 **Perpustakaan1** — Aplikasi manajemen perpustakaan sederhana menggunakan PHP.
+- 🚀 **web-portfolio** — Project portofolio berbasis Nuxt.js.
+- 📚 **Perpustakaan** — web manajemen perpustakaan sederhana menggunakan PHP.
+- 🛒 **toko-online-sederhana** = web perbelanjaan sederhana menggunakan php 
 - 🗄️ **database & Latihan-ERD** — Perancangan dan pengelolaan struktur basis data.
 
 ---
